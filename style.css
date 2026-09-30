@@ -7,14 +7,27 @@
     background-color: blue;
     color: yellow;
     height: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+    padding-left: 10px;
+}
+
+.inner1 {
+    padding: 20px;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
-    
-
 }
 
 .logo {
     text-decoration: solid;
     display: inline;
+    padding-bottom: 20px;
+}
+
+.contact {
+    padding-left: 10px;
 }
